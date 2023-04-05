@@ -1,7 +1,7 @@
 SELECT 
 	  COUNT(mu.music_id) AS cancoes,
     COUNT(DISTINCT(art.artist_id)) AS artistas,
-	  COUNT(DISTINCT(alb.album_id)) AS albums
+	  COUNT(DISTINCT(alb.album_id)) AS albuns
   FROM 
 	  SpotifyClone.music AS mu
 INNER JOIN 
