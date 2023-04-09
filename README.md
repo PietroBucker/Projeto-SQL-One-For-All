@@ -1,5 +1,5 @@
 # :construction: README em construção ! :construction:
-# PROJETO ALL FOR ONE SQL
+# PROJETO ONE FOR ALL SQL
   -Primeiro projeto com SQL em que foi aplicado o conhecimento em Consulta e Manipulaçao por Queries do SQL
   
   -Arquivos Eleborados por mim.
